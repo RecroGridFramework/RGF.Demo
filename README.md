@@ -6,7 +6,7 @@ Cloning Git Repository with Submodules
 git clone --recurse-submodules https://github.com/RecroGridFramework/RGF.Demo.git
 ```
 
-[Initialization](https://rgf.recrovit.hu/6.4/docs/rgf-demo)
+[Initialization](https://rgf.recrovit.hu/latest/docs/rgf-demo)
 
 Official Website: [RecroGrid Framework](https://RecroGrid.com) 
 
