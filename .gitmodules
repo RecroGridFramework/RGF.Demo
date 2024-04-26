@@ -13,3 +13,6 @@
 [submodule "RGF.Demo.MVC"]
 	path = RGF.Demo.MVC
 	url = https://github.com/RecroGridFramework/RGF.Demo.MVC.git
+[submodule "RGF.Demo.Northwind.Common"]
+	path = RGF.Demo.Northwind.Common
+	url = https://github.com/RecroGridFramework/RGF.Demo.Northwind.Common.git
