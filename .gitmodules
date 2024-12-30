@@ -1,0 +1,18 @@
+[submodule "RGF.Demo.IDP"]
+	path = RGF.Demo.IDP
+	url = https://github.com/RecroGridFramework/RGF.Demo.IDP.git
+[submodule "RGF.Demo.Northwind.Common"]
+	path = RGF.Demo.Northwind.Common
+	url = https://github.com/RecroGridFramework/RGF.Demo.Northwind.Common.git
+[submodule "RGF.Demo.Northwind"]
+	path = RGF.Demo.Northwind
+	url = https://github.com/RecroGridFramework/RGF.Demo.Northwind.git
+[submodule "RGF.Demo.API"]
+	path = RGF.Demo.API
+	url = https://github.com/RecroGridFramework/RGF.Demo.API.git
+[submodule "RGF.Demo.Blazor"]
+	path = RGF.Demo.Blazor
+	url = https://github.com/RecroGridFramework/RGF.Demo.Blazor.git
+[submodule "RGF.Demo.MVC"]
+	path = RGF.Demo.MVC
+	url = https://github.com/RecroGridFramework/RGF.Demo.MVC.git
